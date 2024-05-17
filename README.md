@@ -1,7 +1,5 @@
 # Contact System
 
-This is an exam.
-
 ## Installation
 
 1. Clone the repository to your local machine:
